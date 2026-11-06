@@ -1,0 +1,3 @@
+Release Validation protected-branch diagnostic.
+This temporary file and its PR exist only to exercise the release-candidate check.
+Do not merge into main.
